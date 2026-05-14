@@ -1,3 +1,4 @@
+```text
 brain_pc/
 ├── core/                   # 逻辑中枢（Agent 决策、API 调用）
 ├── vision/                 # ★ 视觉模块主阵地
